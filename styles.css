@@ -87,10 +87,10 @@ nav ul li a {
     display: inline-block;
     padding: 12px 24px;
     background-color: #E75D02;
-    color: white;
+    color: #ffffff;
     text-decoration: none;
     border-radius: 5px;
-    border: 1px solid white;
+    border: 1px solid #ffffff;
     transition: background-color 0.3s, transform 0.3s;
     font-weight: bold;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -99,7 +99,7 @@ nav ul li a {
 .button:hover {
     background-color: #E75D02;
     transform: translateY(-2px);
-    border-color: white;
+    border-color: #ffffff;
 }
 
 
